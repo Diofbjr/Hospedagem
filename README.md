@@ -41,12 +41,14 @@ O sistema simula o funcionamento básico de uma **hospedagem**, permitindo:
 
 ## 🏗️ Estrutura do Projeto
 
+```bash
 📦 Hospedagem
 ├── 📁 Models
-│ ├── Pessoa.cs
-│ ├── Suite.cs
-│ └── Reserva.cs
+│   ├── Pessoa.cs
+│   ├── Suite.cs
+│   └── Reserva.cs
 └── Program.cs
+```
 
 
 ---
